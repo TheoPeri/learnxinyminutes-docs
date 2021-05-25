@@ -400,7 +400,6 @@ Si le pas n'est pas indiqué, la valeur par défaut est 1.
 Affiche:
     4
     6
-    8
 """
 for i in range(4, 8, 2):
     print(i)
